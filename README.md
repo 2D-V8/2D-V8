@@ -1,6 +1,6 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">💻 Software Developer | 🌐 Full Stack Enthusiast | 🔐 Cybersecurity Learner</h3>
+<h1 align="center">Hi , I'm Daniel Valencia</h1>
+<h3 align="center">💻 Disciplined Systems engineering student from Miami living in Cali, Colombia!  | 🌐 Software development Enthusiast | 🔐 Cybersecurity Learner</h3>
 
 ---
 
