@@ -1,39 +1,54 @@
-# 👋 Hi, I'm Daniel!  
-
-## 👨‍💻 Software Development Projects  
-
-- **Python Games (Pong & Snake)**  
-  - [Pong Game – practicing OOP in Python](https://github.com/2D-V8/PongGamePy)  
-  - [Snake Game in Python](https://github.com/2D-V8/SnakeGamePy)  
-
-- **Full-Stack Web Project Manager Platform**  
-  - Inspired by Jira | Built with **PHP, JavaScript, XAMPP, Vue components**  
-  - [Repository](https://github.com/2D-V8/gestor-proyectos)  
-
-- **React Native Delivery App**  
-  - Backend powered by **Node.js & MySQL**  
-  - [Repository](https://github.com/2D-V8/BackEnd-Delivery-App)  
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Daniel</h1>
+<h3 align="center">💻 Software Developer | 🌐 Full Stack Enthusiast | 🔐 Cybersecurity Learner</h3>
 
 ---
 
-## 🔗 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/daniel-valencia-818739264)  
+## 🚀 Projects  
+
+### 🎮 Python Games  
+- 🏓 [Pong Game – practicing OOP](https://github.com/2D-V8/PongGamePy)  
+- 🐍 [Snake Game in Python](https://github.com/2D-V8/SnakeGamePy)  
+
+### 🗂️ Project Manager Platform (Full Stack)  
+- Inspired by **Jira** | Built with **PHP, JavaScript, XAMPP, Vue**  
+- [🔗 Repository](https://github.com/2D-V8/gestor-proyectos)  
+
+### 📦 React Native Delivery App  
+- Backend with **Node.js + MySQL**  
+- [🔗 Repository](https://github.com/2D-V8/BackEnd-Delivery-App)  
 
 ---
 
 ## 🌱 Currently Learning  
-- Google’s Professional Cybersecurity Certificate  
-- IT Strategic Planning & IT Governance  
+- 🎓 Google Professional Cybersecurity Certificate  
+- 📊 IT Strategic Planning & IT Governance  
 
 ---
 
-## 💡 Interests  
-- Python, Data Analysis & Automation  
-- Search Algorithms & Optimization  
-- Full-Stack Development  
-- Cybersecurity & IT Strategy  
+## ⚡ Tech Stack  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)  
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
 
 ---
 
-✨ *Open to collaboration on interesting projects!*  
+## 🔗 Connect with Me  
+<p align="center">
+  <a href="http://www.linkedin.com/in/daniel-valencia-818739264">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/2D-V8">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+✨ *Always open to collaborate on innovative projects!* 🚀
+
 
